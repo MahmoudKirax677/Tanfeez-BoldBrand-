@@ -8,8 +8,6 @@
 - **Cubit (State Management)**: Ensures efficient and scalable state management throughout the app.
 - **API Integration**: For seamless interaction between vendors and users, including service requests, bids, and order management.
 - **Firebase**: Used for push notifications to keep users and vendors informed about order updates, new bids, and promotions.
-- **Social Login**: Facilitates easy registration and login using Google or Facebook.
-- **Payment Integration**: Supports secure payment options for users to process orders directly in the app.
 
 **Key Features**:
 - **Service Showcase**: Vendors can create detailed profiles and showcase their services with descriptions, pricing, and availability.
